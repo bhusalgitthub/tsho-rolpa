@@ -1,0 +1,55 @@
+Geom Title=GLOF_Geometry
+Program Version=6.70
+Viewing Rectangle= 431739.00140166 , 451294.579764416 , 3088732.77442063 , 3079352.99469753 
+
+Storage Area=Rolwaling River ,,
+Storage Area Surface Line= 20 
+ 432627.891327243085582.31392149                
+  432692.77221493088269.33933332                
+436141.3483235133088306.42079685                
+ 438662.887843793087490.62859912                
+  441332.75321823085933.20713071                
+444447.5961550123084932.00761531                
+446894.9727482223084227.45980817                
+447306.3225035993083656.38101236                
+447522.3637443253083262.98028107                
+448286.8854850443082844.06425876                
+448859.1712755263082181.65681183                
+449718.0800325233081130.35249326                
+450405.6898388363080355.35785199                
+449819.2074075993079779.34832131                
+ 446132.099935913082522.86038225                
+443652.5832942513082472.58671608                
+439247.3054264733084141.25257509                
+437345.0263472053085409.43862793                
+435142.3874133153085542.93189665                
+ 432627.891327243085582.31392149                
+Storage Area Type= 1 
+Storage Area Area=
+Storage Area Min Elev=
+Storage Area Is2D=-1
+Storage Area Point Generation Data=,,100,100
+Storage Area 2D Points= 0 
+Storage Area 2D PointsPerimeterTime=24May2026 08:07:39
+Storage Area Mannings=0.06
+2D Cell Volume Filter Tolerance=0.003
+2D Cell Minimum Area Fraction=0.01
+2D Face Profile Filter Tolerance=0.003
+2D Face Area Elevation Profile Filter Tolerance=0.003
+2D Face Area Elevation Conveyance Ratio=0.02
+2D Face Min Length Ratio=0.05
+2D Face Area Laminar Depth=0.06
+2D Multiple Face Mann n=0
+2D Composite LC=0
+
+LCMann Time=Dec/30/1899 00:00:00
+LCMann Region Time=Dec/30/1899 00:00:00
+LCMann Table=0
+Chan Stop Cuts=-1 
+
+
+
+Use User Specified Reach Order=0
+GIS Ratio Cuts To Invert=-1
+GIS Limit At Bridges=0
+Composite Channel Slope=5

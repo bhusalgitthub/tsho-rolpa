@@ -1,0 +1,70 @@
+ 
+                                              HEC-RAS - River Analysis System
+ 
+ 
+Project File:  C:\Users\bhusa\Desktop\TSHO-ROLPA-GLOF\03_MODELS\HEC_RAS\tshorolpa.prj
+ 
+Project Name:  Tsho Rolpa GLOF Assessment
+ 
+ 
+Plan Name:     S1_Partial_Breach
+ 
+Short ID:      S1_Partial_Breach
+ 
+
+Starting Time:   31Dec2025 2400
+
+Ending Time:     01Jan2026 0600
+
+
+                ################################################
+                #                                              #
+                #                                              #
+                #       1D and 2D Unsteady Flow Module         #
+                #                                              #
+                #                                              #
+                #          HEC-RAS 6.7 Beta2 April 2025        #
+                #                                              #
+                #             24MAY26 at 17:51:01              #
+                #                                              #
+                ################################################
+                
+ 
+ 
+ 
+
+         US Inflow      DS Outflow       Lat Hydro        SA Hydro     Groundwater      Diversions   Precip Excess
+         *********      **********       *********        ********     ***********      **********   *************
+                                                                                                                                  
+
+    Start 1D Reach  Final 1D Reach   Starting SA's      Final SA's
+    **************  **************   *************      **********
+                                                                  
+
+
+
+                 ***   Volume Accounting for 2D Flow Area in 1000 m^3   ***
+
+           2D Area    Starting Vol      Ending Vol      Cum Inflow     Cum Outflow           Error   Percent Error
+           *******    ************      **********      **********     ***********           *****   *************
+ 
+ 
+   Rolwaling River                          0.4050           2451.                -2450.6967340502           99.98
+
+
+
+                 ***  Total Volume Accounting (for the entire model) in 1000 m^3   ***
+
+Total Boundary Flux of Water In            2451.
+Total Boundary Flux of Water Out    0.0000000000
+
+Starting Volume                     0.0000000000
+Ending Volume                             0.4050
+
+
+                             Error   Percent Error
+                             *****   *************
+                  -2450.6967340502           99.98
+
+
+

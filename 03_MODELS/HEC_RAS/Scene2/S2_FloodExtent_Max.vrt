@@ -1,0 +1,32 @@
+<VRTDataset rasterXSize="512" rasterYSize="768">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / UTM zone 45N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",87],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32645"]]</SRS>
+  <GeoTransform>  4.3243439732598804e+05,  2.9138519074614347e+01,  0.0000000000000000e+00,  3.0961609684959045e+06,  0.0000000000000000e+00, -2.9138519074614347e+01</GeoTransform>
+  <VRTRasterBand dataType="Float32" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">241.26904296875</MDI>
+      <MDI key="STATISTICS_MEAN">77.279562644775</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.02783203125</MDI>
+      <MDI key="STATISTICS_STDDEV">57.983260654863</MDI>
+    </Metadata>
+    <NoDataValue>-9999</NoDataValue>
+    <ColorInterp>Gray</ColorInterp>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.02783203125</HistMin>
+        <HistMax>241.26904296875</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>57|23|23|27|22|22|14|9|10|16|23|20|22|14|21|21|14|14|15|17|14|20|14|19|11|11|9|19|19|9|17|19|16|25|20|15|14|22|11|11|30|10|24|8|19|11|12|18|11|14|18|12|20|15|14|16|21|12|19|16|1|16|16|6|14|9|17|7|9|16|16|10|17|17|12|18|13|11|4|8|14|11|9|9|14|11|8|7|8|16|13|8|12|8|10|4|7|14|9|17|9|10|9|8|15|8|11|9|5|6|8|7|3|8|10|11|9|8|10|8|9|7|12|7|9|9|4|8|10|13|1|10|9|3|12|5|6|5|12|10|6|9|6|5|8|7|6|1|7|11|5|8|7|9|6|10|8|6|6|4|12|5|6|6|10|2|8|7|9|6|9|1|6|12|7|8|7|3|4|6|10|12|1|10|10|5|11|6|4|6|1|2|3|3|6|2|3|2|2|0|2|3|2|3|2|4|1|1|3|6|3|0|2|3|3|2|0|0|2|4|1|4|1|1|4|2|2|1|3|3|3|3|1|1|0|1|2|0|3|2|3|1|0|2|0|1|1|1|0|0|0|0|2|0|1|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">S2_FloodExtent_Max.Terrain.AW3D30_UTM45N.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="512" RasterYSize="768" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="512" ySize="768" />
+      <DstRect xOff="0" yOff="0" xSize="512" ySize="768" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>

@@ -1,0 +1,70 @@
+ 
+                                              HEC-RAS - River Analysis System
+ 
+ 
+Project File:  C:\Users\bhusa\Desktop\TSHO-ROLPA-GLOF\03_MODELS\HEC_RAS\tshorolpa.prj
+ 
+Project Name:  Tsho Rolpa GLOF Assessment
+ 
+ 
+Plan Name:     S3 Cascade Failure
+ 
+Short ID:      S3
+ 
+
+Starting Time:   31Dec2025 2400
+
+Ending Time:     01Jan2026 0200
+
+
+                ################################################
+                #                                              #
+                #                                              #
+                #       1D and 2D Unsteady Flow Module         #
+                #                                              #
+                #                                              #
+                #          HEC-RAS 6.7 Beta2 April 2025        #
+                #                                              #
+                #             26MAY26 at 07:22:44              #
+                #                                              #
+                ################################################
+                
+ 
+ 
+ 
+
+         US Inflow      DS Outflow       Lat Hydro        SA Hydro     Groundwater      Diversions   Precip Excess
+         *********      **********       *********        ********     ***********      **********   *************
+                                                                                                                                  
+
+    Start 1D Reach  Final 1D Reach   Starting SA's      Final SA's
+    **************  **************   *************      **********
+                                                                  
+
+
+
+                 ***   Volume Accounting for 2D Flow Area in 1000 m^3   ***
+
+           2D Area    Starting Vol      Ending Vol      Cum Inflow     Cum Outflow           Error   Percent Error
+           *******    ************      **********      **********     ***********           *****   *************
+ 
+ 
+   Rolwaling River                         259789.         244831.                          14958.           6.110
+
+
+
+                 ***  Total Volume Accounting (for the entire model) in 1000 m^3   ***
+
+Total Boundary Flux of Water In          244831.
+Total Boundary Flux of Water Out    0.0000000000
+
+Starting Volume                     0.0000000000
+Ending Volume                            259789.
+
+
+                             Error   Percent Error
+                             *****   *************
+                            14958.           6.110
+
+
+

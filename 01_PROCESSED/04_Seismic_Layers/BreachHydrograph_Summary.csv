@@ -1,0 +1,4 @@
+Scenario,Description,Volume_Mm3,BreachHeight_m,BreachWidth_m,TimeToPeak_min,BreachDuration_hrs,PeakDischarge_m3s
+S1_Partial_Breach,"Partial breach — 20m notch, seepage/piping",27.0,20.0,76.1,29.8,1.49,20711.0
+S2_Full_Breach,"Full breach — 40m notch, overtopping",62.99999999999999,40.0,159.3,25.0,1.25,66352.0
+S3_Cascade_Failure,Seismic + landslide dam cascade (2024 Thame analog),90.0,70.0,198.6,18.2,0.91,107487.0
