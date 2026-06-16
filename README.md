@@ -1,0 +1,16 @@
+Back in our first semester, we built a physical scaled down model of the Tsho Rolpa glacial lake for Dristi 2025, which is our college’s project exhibition event. It was a 1:10,000 horizontal scale & 1:6300 vertical scale demonstrative model, meaning one meter on our model represented ten kilometers horizontally in the field & 6.35cm represented 400m vertically (6.35cm equals 2.5inch which was the size of styrofoams used). We generated contour maps of the Dolakha region at around 70m intervals from software, printed the contour map, cut styrofoams with respect to that printed A0 paper, and stacked styrofoam pieces then covered it in white cement & painted to recreate the mountainous terrain. It was an information model that we created which presented information on risks of GLOFs in Nepal & its possibilities of growing if we didn’t account for global warming.
+That physical model that we created was to show the lake and the government's existing mitigation efforts, specifically the spillway and the early warning system installed for villages below which are Na (pronounced Nya) village, Beding village & other villages along the way down the Rolwaling valley.
+Now, I am taking this analysis further. This report documents Glacial Lake Outburst Flood (GLOF) risk assessment for Tsho Rolpa, currently the largest and most hazardous glacial lake in Nepal.
+Instead of a physical model, I am running digital hydrodynamic simulations to determine exactly what happens if the moraine dam holding the lake actually fails. We need accurate numbers & data to understand the true scale of the threat. In this assessment I’ll be answering engineering and safety questions:
+Evacuation Timelines: If a breach occurs, exactly how much warning time will the people living below Tsho Rolpa have to evacuate?
+Climate & Expansion: How fast is the lake's volume increasing as global warming accelerates the melting of the feeding Trakarding glacier?
+Geotechnical Stability: What happens to the soil stability of the moraine dam as its internal ice core continues to melt?
+Seismic Triggers: 
+What exact Richter scale magnitude is required to cause a catastrophic dam failure? 
+Are smaller earthquakes causing cumulative, hidden damage to the moraine dam?
+Mitigation Efficiency: 
+Is the existing spillway, constructed with assistance from the Government of Netherlands alongside Nepali authorities, still sufficient to handle the current, expanding lake volume?
+Inundation Depths: 
+If a total failure occurs, exactly how deep will the floodwaters get in the village areas?
+The objective of this project is to be able to answer those questions mentioned above & present methodology with absolute transparency. I am keeping the methodology, the raw data, and the mathematical parameters so that anyone can rerun this analysis, verify the numbers, and understand the real-world physics threatening the Rolwaling Valley.
+
