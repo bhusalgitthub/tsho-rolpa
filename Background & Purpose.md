@@ -13,4 +13,3 @@ Is the existing spillway, constructed with assistance from the Government of Net
 Inundation Depths: 
 If a total failure occurs, exactly how deep will the floodwaters get in the village areas?
 The objective of this project is to be able to answer those questions mentioned above & present methodology with absolute transparency. I am keeping the methodology, the raw data, and the mathematical parameters so that anyone can rerun this analysis, verify the numbers, and understand the real-world physics threatening the Rolwaling Valley.
-
